@@ -6,29 +6,16 @@ To implement filters for smoothing and sharpening the images in the spatial doma
 Anaconda - Python 3.7
 
 ## Algorithm:
-### Step1
-</br>
-Import the required libraries.
-</br> 
 
-### Step2
-</br>
-Convert the image from BGR to RGB.
-</br> 
+1.Import the required libraries.
 
-### Step3
-</br>
-Apply the required filters for the image separately.
-</br> 
+2.Convert the image from BGR to RGB.
 
-### Step4
-</br>
-Plot the original and filtered image by using matplotlib.pyplot.
-</br> 
+3.Apply the required filters for the image separately.
 
-### Step 5
+4.Plot the original and filtered image by using matplotlib.pyplot.
 
-End of Program
+5.End of Program
 
 ## Program:
 ### Developed By   : Karthikeyan R
